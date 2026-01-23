@@ -1,4 +1,4 @@
-# F1 Results and Predictions Database 🏎️🏁
+# 🏎️ F1 Results and Predictions Database 🏁
 
 # Design Document
 
@@ -10,7 +10,7 @@ Video overview: <https://youtu.be/9YZ3KIhXIEE>
 
 This database stores information about Formula 1 races, results, and predictions. It enables analysis of race outcomes and prediction accuracy. The database includes entities for drivers, teams, races, results, and predictions. It supports queries for race results, driver standings, and prediction accuracy.
 
-## Functional Requirements
+## 📃 Functional Requirements
 ### What should a user be able to do with your database?
 * **View Race Results**: Users should be able to query and view the results of past races, including positions and points scored by each driver.
 * **View Driver Standings**: Users should be able to query and view the cumulative points and standings of all drivers across multiple races.
@@ -25,7 +25,7 @@ This database stores information about Formula 1 races, results, and predictions
 * **Detailed Race Analytics**: Advanced analytics beyond basic queries (e.g., lap times, pit stop strategies) are not within the scope of this database.
 * **Graphical Interface**: The database does not provide a graphical user interface; it is intended to be queried using SQL.
 
-## Representation
+## 👷 Representation
 
 Entities are captured in SQLite tables with the following schema.
 
