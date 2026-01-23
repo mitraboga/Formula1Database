@@ -1,4 +1,4 @@
-# F1 Results and Predictions Database
+# F1 Results and Predictions Database 🏎️🏁
 
 # Design Document
 
@@ -6,7 +6,7 @@ By Mitra Boga
 
 Video overview: <https://youtu.be/9YZ3KIhXIEE>
 
-## Scope
+## 🔭 Scope
 
 This database stores information about Formula 1 races, results, and predictions. It enables analysis of race outcomes and prediction accuracy. The database includes entities for drivers, teams, races, results, and predictions. It supports queries for race results, driver standings, and prediction accuracy.
 
@@ -53,10 +53,28 @@ Constraints were chosen to ensure data integrity and maintain the relational str
 
 ![F1 Database ERD](F1_ERD.png)
 
-## Optimizations
+## 📊 Optimizations
 
 Indexes on foreign keys (e.g., `driver_id`, `race_id`) to speed up join operations.
 
-## Limitations
+## ⚠️ Limitations
 
 This database assumes a static list of drivers and teams. It doesn't handle changes like driver transfers between teams.
+
+---
+
+## 👤 Author
+
+<p align="center">
+  <b style="font-size:18px;">Mitra Boga</b><br/><br/>
+
+  <!-- LinkedIn: true blue label + lighter-blue username block -->
+  <a href="https://www.linkedin.com/in/bogamitra/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-bogamitra-4DA3FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+
+  <!-- X: near-black label + darker-gray username block (dark-mode friendly) -->
+  <a href="https://x.com/techtraboga" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@techtraboga-3A3F45?style=for-the-badge&logo=x&logoColor=white&labelColor=111418" />
+  </a>
+</p>
