@@ -1,10 +1,15 @@
-# 🏎️ F1 Results and Predictions Database 🏁
+<h1 align="center">🏎️ F1 Results and Predictions Database 🏁</h1>
 
-# Design Document
-
-By Mitra Boga
-
-Video overview: <https://youtu.be/9YZ3KIhXIEE>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/SQL-Relational%20Queries-4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/Database-Design%20%26%20Normalization-1E90FF" alt="Database Design" />
+  <img src="https://img.shields.io/badge/ERD-Entity--Relationship%20Diagram-8A2BE2" alt="ERD" />
+  <img src="https://img.shields.io/badge/Data-Modeling%20%26%20Integrity-228B22" alt="Data Modeling" />
+  <img src="https://img.shields.io/badge/Analytics-Standings%20%26%20Accuracy-FF8C00" alt="Analytics" />
+  <img src="https://img.shields.io/badge/F1-Race%20Results%20Tracking-E10600" alt="Formula 1" />
+  <img src="https://img.shields.io/badge/Predictions-Outcome%20Evaluation-708090" alt="Predictions" />
+</p>
 
 ## 🔭 Scope
 
