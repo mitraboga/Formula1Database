@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/Predictions-Outcome%20Evaluation-708090" alt="Predictions" />
 </p>
 
+---
+
+<p align="center">
+  <img src="Formula_1_Database_Preview.gif" width="95%" alt="F1 Database Preview (GIF)"/>
+</p>
+
+---
+
 ## 🔭 Scope
 
 This database stores information about Formula 1 races, results, and predictions. It enables analysis of race outcomes and prediction accuracy. The database includes entities for drivers, teams, races, results, and predictions. It supports queries for race results, driver standings, and prediction accuracy.
